@@ -1,1 +1,2 @@
 first line added in sample file
+Second line added in the sample file
