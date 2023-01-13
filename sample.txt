@@ -4,4 +4,4 @@ Third line added by d1 in sample file
 Fourth line added by d2 in sample file
 Fifth line added in feature-2
 Sixth line added by feature-3
-
+seventh line added by release
